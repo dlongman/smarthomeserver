@@ -25,7 +25,7 @@ Graphical workflow design tool
 ## Watchtower
 
 Keeps Docker images up to date
-[Watchtower](https://github.com/containrrr/watchtower)
+[Watchtower](https://containrrr.dev/watchtower/)
 
 ## Loki
 
